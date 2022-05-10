@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "readp":"nodemon app.js",
     "readawait":"nodemon readawait.js",
-    "readutil":"nodemon utilpromise.js"
+    "readutil":"nodemon utilpromise.js",
+    "events":"nodemon events.js"
   },
   "author": "",
   "license": "ISC",
