@@ -5,7 +5,9 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon app.js"
+    "readp":"nodemon app.js",
+    "readawait":"nodemon readawait.js",
+    "readutil":"nodemon utilpromise.js"
   },
   "author": "",
   "license": "ISC",

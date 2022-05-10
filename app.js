@@ -17,4 +17,14 @@ const getFile= (path)=>{
         })
     })
 }
-getFile("./codes/hello.txt").then((result)=>{console.log(result)})
+const start= async ()=> {
+    try{
+  const first= await getFile("./codes/hello.pdf")
+    console.log(first)
+    }
+    catch(err){
+console.log(error)
+    }
+  
+}
+start()
