@@ -1,0 +1,60 @@
+JAVASCRIPT
+
+According to a study done at stack overflow, Javascript is the second most popular languange among developers.
+Why should you care about learning it?
+
+-Its in high demand. Having this skill can guarantee you a source of income
+-you can build almost anything starting from web apps, mobile apps, desktop apps and web 3 apps
+- Basically there are 2 routes to follow if you are using javascript for web development
+    ✔Javascript on the browser for frontend applications
+    ✔Javascript on the server to build backend
+
+    So where does javascript  run?
+    Javascript runs on the browser, any browser
+    If you are using windows, open chrome and press f12(alternatively you can go to settings>inspect>developer tools>console)
+    .. this will open dev tools
+    ... navigate to the console
+    ... type console.log("hello world")
+    you will see the hello world output on your console.
+    Brilliant! you have executed your first js code.
+
+    So whats the history of this languange?
+    It was developed in a company called netscape by a developer called Brendan 
+    It was first called mocha but later changed to javascript for commercial purposes since java was very popular at that time
+    N/B javascript is not related to java, the similar name was just for commercial purposes.
+     -later, microsft developed internet explorer 2 which came with its own version of javascript called js script
+
+     ✔Due to this, there was a problem. Two conflicting versions of javascript in the market!
+     there had to be a standard
+     -developers met in EUROPEAN COMPUTER MANUFACTURING ASSOCIATION i.e ECMA and held a conference to come up with a standard version of javascript
+     - The result was ECMASCRIPT . ECMASCRIPT is just javascript
+     - ECMA meets regularly till now to continue developing the languange
+     - thats why you will here terms like ES5, ES6, ES7 features of javascript
+      
+      So what is ECMASCRIPT? IS IT JAVASCRIPT?
+      ecmascript is the part  of javascript that defines things like keywords and reserved keywords
+      - for loops and if statements in the languange
+      - and Basically every other syntax rule
+
+      BUT JAVASCRIPT IS MORE THAN ECMASCRIPT
+      javascript has 3 major building blocks
+      -ECMASCRIPT
+      -DOM -document object model
+      -BOM -browser object model
+
+      this three are what make up javascript as a whole
+
+      SO WHAT IS DOM?
+      iTS AN api provided by the browser. It allows us to get access to html elements e.g div and manipulate them using javascript code
+      thats pretty powerful!
+      It basically allows us to add interactivity to our websites
+      -This is what allows us to make dynamic sites
+
+      SO WHAT IS BOM?
+      an api that allows us to interact with the browser
+      -don't worry about this too much will talk about it
+
+      WHO SHOULD LEARN JAVASCRIPT?
+      anyone with a basic understanding of html and css
+      
+     
